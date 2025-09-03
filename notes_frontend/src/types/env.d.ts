@@ -1,0 +1,1 @@
+/* Placeholder for potential environment variable typings if needed in the future. */
